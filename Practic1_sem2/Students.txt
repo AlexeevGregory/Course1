@@ -1,0 +1,56 @@
+Popov
+Daniil
+Alekseevich
+1
+101
+M
+4 5 3 4 5 4 4 5 
+Petrov
+Fedor
+Ivanovich
+2
+202
+M
+4 5 4 5 5 5 4 4 
+Sidorov
+Aleksey
+Konstantinovich
+2
+201
+M
+4 4 4 4 5 5 5 4 
+Loginova
+Daria
+Victorovna
+1
+103
+F
+4 5 5 5 5 5 4 4 
+Ognicenko
+Lada
+Vadimovna
+1
+102
+F
+4 4 4 4 4 4 4 4 
+Ivanov
+Petr
+Sergeevich
+2
+204
+M
+4 5 5 5 4 5 5 4 
+Gzhel
+Vasiliy
+Ivanovich
+1
+103
+M
+5 5 5 5 5 5 5 5 
+Petrov
+Vasiliy
+Ivanovich
+3
+301
+M
+4 3 4 4 4 3 4 4 
